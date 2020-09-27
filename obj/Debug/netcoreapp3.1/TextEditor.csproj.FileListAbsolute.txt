@@ -1,0 +1,13 @@
+/mnt/Pedro/WorkSpace/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.csprojAssemblyReference.cache
+/mnt/Pedro/WorkSpace/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.AssemblyInfoInputs.cache
+/mnt/Pedro/WorkSpace/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.AssemblyInfo.cs
+/mnt/Pedro/WorkSpace/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.csproj.CoreCompileInputs.cache
+/mnt/Pedro/WorkSpace/TextEditor/bin/Debug/netcoreapp3.1/TextEditor
+/mnt/Pedro/WorkSpace/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.deps.json
+/mnt/Pedro/WorkSpace/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.runtimeconfig.json
+/mnt/Pedro/WorkSpace/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.runtimeconfig.dev.json
+/mnt/Pedro/WorkSpace/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.dll
+/mnt/Pedro/WorkSpace/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.pdb
+/mnt/Pedro/WorkSpace/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.dll
+/mnt/Pedro/WorkSpace/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.pdb
+/mnt/Pedro/WorkSpace/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.genruntimeconfig.cache
